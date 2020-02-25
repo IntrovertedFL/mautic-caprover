@@ -1,7 +1,7 @@
 FROM php:7.1-apache
 
 LABEL vendor="Mautic"
-LABEL maintainer="Luiz Eduardo Oliveira Fonseca <luiz@powertic.com>"
+LABEL maintainer="Aaron Holt <mrholttn@gmail.com>"
 
 # Install PHP extensions
 RUN apt-get update && apt-get install --no-install-recommends -y \
