@@ -4,6 +4,8 @@ Mautic is an open marketing software platform that gives a high level of marketi
 
 ## This guide assumes that you have a running instance of [CapRover.](https://caprover.com/)
 
+#### See link below for installation instructions
+
 [CapRover install docs](https://caprover.com/docs/get-started.html/)
 
 ## 1. Create mysql database from one click apps
