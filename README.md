@@ -1,3 +1,7 @@
+```
+This guide assumes you have a running instance of CapRover.
+[CapRover install docs](https://caprover.com/docs/get-started.html/)
+```
 # 1. Create mysql database from one click apps
 
 Replace enviroment variables (Only change password for db)
