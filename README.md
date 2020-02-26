@@ -28,5 +28,16 @@ Add persistant directory /var/www/html
 
 Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
 
+## Updating Mautic Version
+
+[Find Mautic Version and SHA1](https://github.com/mautic/mautic/releases/)
+
+```
+# Define Mautic version and expected SHA1 signature
+ENV MAUTIC_VERSION 2.16.0
+ENV MAUTIC_SHA1 94ced007fd99e63eaeec435012784b6bbe834b84
+```
+Save, commit and rebuild.
+
 ## Issues
 [[Solved] Maxmind GeoLite2 & GeoIP Database Auto-Update | 2020.](https://mauteam.org/mautic/mautic-admins/solved-maxmind-geolite2-database-not-updating/)
