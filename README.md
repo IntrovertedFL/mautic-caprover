@@ -29,7 +29,7 @@ MAUTIC_DB_NAME=mautic
 MAUTIC_RUN_CRON_JOBS=true
 MAUTIC_DB_PASSWORD=yourpassword
 ```
-Add persistent directory /var/www/html
+Add persistent directory /var/www/html=mautic-www
 
 Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
 
