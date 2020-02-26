@@ -1,6 +1,6 @@
 ## What is [Mautic?](https://www.mautic.org/)
 
-Mautic is an open marketing software platform that gives a high level of marketing integration with audience intelligence that enables you to make personalised emails, create landing pages, create intuitive workflows for customer experiences and the capabilities to track your marketing activities.
+Mautic is an open marketing software platform that gives a high level of marketing integration with audience intelligence that enables you to make personalized emails, create landing pages, create intuitive workflows for customer experiences and the capabilities to track your marketing activities.
 
 ## This guide assumes that you have a running instance of [CapRover.](https://caprover.com/)
 
@@ -10,7 +10,7 @@ Mautic is an open marketing software platform that gives a high level of marketi
 
 ## 1. Create mysql database from one click apps
 
-Replace enviroment variables (Only change password for db)
+Replace environment variables (Only change password for db)
 ```
 MAUTIC_DB_USER=root
 MAUTIC_DB_NAME=mautic
@@ -21,7 +21,7 @@ MAUTIC_DB_PASSWORD=yourpassword
 
 [Caprover Docs Connecting to Databases](https://caprover.com/docs/one-click-apps.html#connecting-to-databases/)
 
-Add enviromental variables
+Add environmental variables
 ```
 MAUTIC_DB_HOST=change-me 
 MAUTIC_DB_USER=root
@@ -29,7 +29,7 @@ MAUTIC_DB_NAME=mautic
 MAUTIC_RUN_CRON_JOBS=true
 MAUTIC_DB_PASSWORD=yourpassword
 ```
-Add persistant directory /var/www/html
+Add persistent directory /var/www/html
 
 Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
 
@@ -51,7 +51,7 @@ Save, commit and rebuild.
 
 ## Credits
 
-- CapRover for providing such an awesome enviroment to work in. (https://caprover.com/)
+- CapRover for providing such an awesome environment to work in. (https://caprover.com/)
 - The Mautic Team for creating an dockerized version. (https://github.com/mautic/docker-mautic)
 - And a big shout out to Jeffrey Epstein for not killing himself. (https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
 
