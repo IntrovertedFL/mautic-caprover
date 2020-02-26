@@ -3,7 +3,7 @@
 
 [CapRover install docs](https://caprover.com/docs/get-started.html/)
 
-# 1. Create mysql database from one click apps
+## 1. Create mysql database from one click apps
 
 Replace enviroment variables (Only change password for db)
 ```
@@ -12,7 +12,7 @@ MAUTIC_DB_NAME=mautic
 MAUTIC_DB_PASSWORD=yourpassword
 
 ```
-# 2. Create new app (check box: Has Persistent Data)
+## 2. Create new app (check box: Has Persistent Data)
 
 [Caprover Docs Connecting to Databases](https://caprover.com/docs/one-click-apps.html#connecting-to-databases/)
 
@@ -28,5 +28,5 @@ Add persistant directory /var/www/html
 
 Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
 
-# Issues
+## Issues
 [[Solved] Maxmind GeoLite2 & GeoIP Database Auto-Update | 2020.](https://mauteam.org/mautic/mautic-admins/solved-maxmind-geolite2-database-not-updating/)
