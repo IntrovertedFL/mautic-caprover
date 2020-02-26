@@ -33,6 +33,7 @@ Add persistent directory
 ```
 - Path: /var/www/html 
 - Label: mautic-data
+```
 
 Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
 
