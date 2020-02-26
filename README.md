@@ -46,3 +46,7 @@ Save, commit and rebuild.
 
 ## Issues
 [[Solved] Maxmind GeoLite2 & GeoIP Database Auto-Update | 2020.](https://mauteam.org/mautic/mautic-admins/solved-maxmind-geolite2-database-not-updating/)
+
+## Credits
+
+CapRover for providing such an awesome enviroment to work in. (https://caprover.com/)
