@@ -9,9 +9,11 @@ MAUTIC_DB_PASSWORD=yourpassword
 ```
 # 2. Create new app (check box: Has Persistent Data)
 
+[Caprover Docs Connecting to Databases](https://caprover.com/docs/one-click-apps.html#connecting-to-databases/)
+
 Add enviromental variables
 ```
-MAUTIC_DB_HOST=change-me [Caprover Docs on Database Connection](https://caprover.com/docs/one-click-apps.html#connecting-to-databases)
+MAUTIC_DB_HOST=change-me 
 MAUTIC_DB_USER=root
 MAUTIC_DB_NAME=mautic
 MAUTIC_RUN_CRON_JOBS=true
