@@ -1,5 +1,5 @@
 
-# This guide assumes you have a running instance of CapRover.
+## This guide assumes you have a running instance of CapRover.
 
 [CapRover install docs](https://caprover.com/docs/get-started.html/)
 
