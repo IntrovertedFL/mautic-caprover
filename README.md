@@ -21,5 +21,7 @@ MAUTIC_DB_PASSWORD=yourpassword
 ```
 Add persistant directory /var/www/html
 
-# 3. Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
+Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
 
+# Issues
+[[Solved] Maxmind GeoLite2 & GeoIP Database Auto-Update | 2020.](https://mauteam.org/mautic/mautic-admins/solved-maxmind-geolite2-database-not-updating/)
