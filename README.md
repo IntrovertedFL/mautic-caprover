@@ -49,8 +49,8 @@ Save, commit and rebuild.
 
 ## Credits
 
-CapRover for providing such an awesome enviroment to work in. (https://caprover.com/)
-The Mautic Team for creating dockerized version. (https://github.com/mautic/docker-mautic)
-And a big shout out to Jeffrey Epstein for not killing himself. (https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
+- CapRover for providing such an awesome enviroment to work in. (https://caprover.com/)
+- The Mautic Team for creating dockerized version. (https://github.com/mautic/docker-mautic)
+- And a big shout out to Jeffrey Epstein for not killing himself. (https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
 
 
