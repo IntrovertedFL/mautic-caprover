@@ -35,6 +35,8 @@ Fork or clone this repo and configure auto deploy in caprover. Push enjoy.
 
 [Find Mautic Version and SHA1](https://github.com/mautic/mautic/releases/)
 
+### Located in /Dockerfile
+
 ```
 # Define Mautic version and expected SHA1 signature
 ENV MAUTIC_VERSION 2.16.0
