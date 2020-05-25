@@ -1,3 +1,5 @@
+# Mautic has been added to the one click apps. https://github.com/caprover/one-click-apps/blob/master/public/v2/apps/mautic.json
+
 ## What is [Mautic?](https://www.mautic.org/)
 
 Mautic is an open marketing software platform that gives a high level of marketing integration with audience intelligence that enables you to make personalized emails, create landing pages, create intuitive workflows for customer experiences and the capabilities to track your marketing activities.
